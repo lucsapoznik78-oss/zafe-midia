@@ -1,2 +1,3 @@
 # zafe-midia
-Imagens e vídeos de posts já publicados. Sem código.
+
+Só imagens e vídeos de posts publicados nas redes da Zafe. Nenhum código aqui.
